@@ -3,8 +3,8 @@ title: "Test webpage on netlify cms"
 subtitle: test subtitle
 image: /img/
 blurb:
-    heading: Это heading ... :0
-    text: "какой-то текст"
+    heading: Это заголовок :0
+    text: "какой-то текст
 intro:
     heading: "Интро-текст"
     text: "Это тестовый сайт. Пока что на нем ничего нету. Но скоро может появится ...
